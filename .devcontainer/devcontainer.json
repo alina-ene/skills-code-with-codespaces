@@ -18,5 +18,7 @@
               "codespace.md"
           ]
       }
-  }
+  },
+  // Add the postCreateCommand
+  "postCreateCommand": "echo 'Setup complete!'"
 }
