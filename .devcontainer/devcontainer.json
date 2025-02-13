@@ -18,7 +18,6 @@
               "codespace.md"
           ]
       }
-  },
-  // Add the postCreateCommand
-  "postCreateCommand": "echo 'Setup complete!'"
+  } ,
+ "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
